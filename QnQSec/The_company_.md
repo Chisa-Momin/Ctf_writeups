@@ -15,7 +15,7 @@ This is the hint
  **_Secondly_**, i went on to check X, i used the advanced search settings in which we can specifically search for the exact phrases, so i copy pasted the words given as hint and pasted in the "This exact phrase" box.Even, after doing this i couldn't uncover the solution ,it is quite hard in twitter to search as it didn't give any results sometimes. I don't know if it's a glitch or something.
 ![alt text](twitter_search_operator_the_company.png )
 
-**_Thirdly_**,i rechecked the problem statement in which it was given that a person named Chloe Stekar is giving some job offer, i didn't rethink twice and search for that account on X as i thought something was fishy and afterwards i began skimming through this specific account to find some hints ,but instead i found the flag to the problem.
+**_Thirdly_**,i rechecked the problem statement in which it was given that a person named Chloe Stekar is providing some job offer, i didn't rethink twice and search for that account on X as i thought something was fishy and afterwards i began skimming through this specific account to find some hints ,but instead i found the flag to the problem.
 ![alt text](The_final_solution_for_The_Company.png )
 
 The flag is **_QnQSec{QnQ Corps}_**
