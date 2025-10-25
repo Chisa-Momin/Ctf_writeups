@@ -1,4 +1,4 @@
-  
+Genre:OSINT  
 #### Problem 1:The company
 ![alt text](The_company_OSINT_Problem_Statement.png )
 
