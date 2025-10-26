@@ -15,7 +15,8 @@ And then press _play_ and you'll be able to decrypt the audio.
 
 ![alt text](The_flag_in_the_spectogram_form.png)
 
-Actually, even after uncovering the flag i encountered several wrong answers as you can see it is not clearly written so i have to check each similar looking word and if it is incorrect and then try again with another letter and doing that i lost my accuracy and many more failed attempts.Eg.Writing 0 instead of o and likewise. So,i suggest anyone to try all possible guesses in google docs and recheck with the given flag whichever is matching the most, submit that flag and earn your 100% accuracy.Just don't be reckless like me :(
+Actually, even after uncovering the flag i encountered several wrong answers as you can see it is not clearly written so i have to check each similar looking word and if it is incorrect and then try again with another letter and doing that i lost my accuracy and many more failed attempts. Eg.Writing 0 instead of o and likewise. So,i suggest anyone to try all possible guesses in google docs and recheck with the given flag whichever is matching the most, submit that flag and earn your 100% accuracy. Just don't be reckless like me :( .
 
 The flag is _QnQSec{h1dd3n_1n_4ud1o}_
+
 
