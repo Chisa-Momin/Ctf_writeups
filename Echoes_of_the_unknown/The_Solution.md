@@ -1,4 +1,5 @@
 Genre: Warmup/Stegno
+
 Level: Easy
 #### Problem 2:Echoes of the unknown
 ![alt text](The_problem_statement_Echoes_of_the_unknown.png)
@@ -19,6 +20,7 @@ And after pressing _play_ ,i was able to decrypt the audio.
 Actually, even after uncovering the flag i encountered several wrong answers as you can see it is not clearly written so i have to check each similar looking word and if it is incorrect and then try again with another letter and doing that i lost my accuracy and many more failed attempts. Eg.Writing 0 instead of o and likewise. So,the lesson i learned is to try all possible guesses in google docs and recheck with the given flag whichever is matching the most, submit that flag and earn the 100% accuracy. Just don't be reckless like me :( .
 
 The flag is _QnQSec{h1dd3n_1n_4ud1o}_
+
 
 
 
